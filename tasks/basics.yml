@@ -2,5 +2,5 @@
   apt:
     name:
       - htop
-      - name
+      - nano
       - tmux
