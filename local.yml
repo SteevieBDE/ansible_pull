@@ -9,5 +9,5 @@
       changed_when: False
 
   tasks:
-    - include: task/basics.yml
+    - include: tasks/basics.yml
 
