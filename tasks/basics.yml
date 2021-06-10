@@ -3,3 +3,4 @@
     name:
       - htop
       - name
+      - tmux
